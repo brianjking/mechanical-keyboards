@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/customization/idea23-dyesub/", 
+            "text": "Idea23: How To Dye Sub Your Own Caps at Home\n\n\nThis content \n guide is taken from /u/busgamer7394 / Idea23 and can be found \nhere\n.\n\n\nSupplies Needed\n\n\nHeat Press Supplies\n\n\n\n\n\n\nHeating Element 12v 220c\n\n\n\n\n\n\nAt least a 3amp 12v power supply ($10.00~)\n\n\n\n\n\n\nDoor Hinge (~$2.00)\n\n\n\n\n\n\nPiece of wood\n\n\n\n\n\n\nJB Weld High Heat\n ($8.00)", 
+            "title": "Idea23 Dye Sub Cap Printing DIY"
+        }, 
+        {
+            "location": "/customization/idea23-dyesub/#idea23-how-to-dye-sub-your-own-caps-at-home", 
+            "text": "This content   guide is taken from /u/busgamer7394 / Idea23 and can be found  here .", 
+            "title": "Idea23: How To Dye Sub Your Own Caps at Home"
+        }, 
+        {
+            "location": "/customization/idea23-dyesub/#supplies-needed", 
+            "text": "", 
+            "title": "Supplies Needed"
+        }, 
+        {
+            "location": "/customization/idea23-dyesub/#heat-press-supplies", 
+            "text": "Heating Element 12v 220c    At least a 3amp 12v power supply ($10.00~)    Door Hinge (~$2.00)    Piece of wood    JB Weld High Heat  ($8.00)", 
+            "title": "Heat Press Supplies"
+        }
+    ]
+}
