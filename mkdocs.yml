@@ -1,0 +1,68 @@
+site_name: Mechanical Keyboards Docs & Resources
+theme: 'material'
+site_author: Brian King
+
+# Repository
+repo_name: brianjking/mechanical-keyboards
+repo_url: https://github.com/brianjking/mechanical-keyboards
+
+# Copyright
+copyright: 'Copyright &copy; 2017 Brian King'
+
+# Options
+extra:
+  feature:
+    tabs: false
+  palette:
+    primary: indigo
+    accent: indigo
+  social:
+    - type: globe
+      link: https://brianjking.io
+    - type: globe
+      link: https://reddit.com/r/mechanicalkeyboards
+    - type: github-alt
+      link: https://github.com/brianjking
+    - type: twitter
+      link: https://twitter.com/brianjking
+    - type: linkedin
+      link: https://www.linkedin.com/in/brianjking
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite(guess_lang=false)
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc(permalink=true)
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+
+# Page tree
+pages:
+  - Home: index.md
+  - Customization:
+    - Idea23 Dye Sub Cap Printing DIY: customization/idea23-dyesub.md
+    - CodeHilite: extensions/codehilite.md
+    - Footnotes: extensions/footnotes.md
+    - Metadata: extensions/metadata.md
+    - Permalinks: extensions/permalinks.md
+    - PyMdown: extensions/pymdown.md
+  - Specimen: specimen.md
+  - Customization: customization.md
+  - Release notes: release-notes.md
+  - Contributing: contributing.md
+  - License: license.md
+
