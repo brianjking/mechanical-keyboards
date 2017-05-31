@@ -7,19 +7,19 @@ repo_name: brianjking/mechanical-keyboards
 repo_url: https://github.com/brianjking/mechanical-keyboards
 
 # Copyright
-copyright: 'Copyright &copy; 2017 Brian King'
+#copyright: 'Copyright &copy; 2017 '
 
 # Options
 extra:
   feature:
     tabs: false
   palette:
-    primary: indigo
-    accent: indigo
+    primary: light blue
+    accent: pink
   social:
     - type: globe
       link: https://brianjking.io
-    - type: globe
+    - type: reddit
       link: https://reddit.com/r/mechanicalkeyboards
     - type: github-alt
       link: https://github.com/brianjking
@@ -55,3 +55,4 @@ pages:
   - Home: index.md
   - Customization:
     - Idea23 Dye Sub Cap Printing DIY: customization/idea23-dyesub.md
+  - Contribution: contributing/contribution.md
