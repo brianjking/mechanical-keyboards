@@ -16,11 +16,35 @@ This content & guide is taken from /u/busgamer7394 / Idea23 and can be found [he
 
 * [JB Weld High Heat](https://www.amazon.com/J-B-Weld-8297-HighHeat-Degree/dp/B007PP26RI/ref=sr_1_1?ie=UTF8&qid=1496252483&sr=8-1&keywords=jb+weld+high+heat) ($8.00)
 
+* [Dye Sub Printer](http://www.ebay.com/itm/Sublimation-Printer-Epson-WF-2630-Built-on-CISS-400ml-Sublimation-Ink-10-Paper-/201586241187?hash=item2eef79eea3:g:6FYAAOSwhQhYyaBs) (~$200)
 
-## Print
+* [Heat Resistant Tape](http://www.ebay.com/itm/Gold-Kapton-Tape-Polyimide-High-Temp-1-2-x-36yds-13mm-/230736779828?hash=item35b8fbda34:g:MZwAAOxyeZNTRI4N)
+
+## Instructions
+
+* Print pictures
+* Cut pictures out
+* Attach picture to front of cap using heat tape
+* Turn on heating element and let it heat up
+* Place small silicone on heating element, silicone should be cut so that it touches as much of the cap surface as possible.
+* Place cap on the silicone and press down on the wood arm for 30-50 seconds.
+* Remove one side of the tape and check image, if it's not done you can put the tape back carfully and heat it again.
+* Remember to turn off your heating element! 
+* Done!
+
+### Visual Walkthrough
 
 ![Step 1](../images/step1.jpg "Step 1")
 
 ![Step 2](../images/step2.jpg "Step 2")
 
 ![Step 3](../images/step3.jpg "Step 3")
+
+### Other Tips & Notes
+
+* I use a size of 1.1cm x 1.1cm for the pictures I put on caps. 
+	* Cherry Profile keycaps can be a little taller but this works for DSA and SA. 
+
+* Remember to print them mirrored.
+
+* I still have a bunch of paper and ink so if there is interest I can provide a printing service, you would send me the pictures in the right size and I would print them for a small fee and ship them to you. Shipping should be pretty cheap worldwide. Contact me via [Reddit](https://www.reddit.com/user/busgamer7394).
