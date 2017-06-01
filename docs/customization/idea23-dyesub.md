@@ -16,3 +16,11 @@ This content & guide is taken from /u/busgamer7394 / Idea23 and can be found [he
 
 * [JB Weld High Heat](https://www.amazon.com/J-B-Weld-8297-HighHeat-Degree/dp/B007PP26RI/ref=sr_1_1?ie=UTF8&qid=1496252483&sr=8-1&keywords=jb+weld+high+heat) ($8.00)
 
+
+## Print
+
+![Step 1](../images/step1.jpg "Step 1")
+
+![Step 2](../images/step2.jpg "Step 2")
+
+![Step 3](../images/step3.jpg "Step 3")
