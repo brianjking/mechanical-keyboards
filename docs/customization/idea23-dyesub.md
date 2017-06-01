@@ -1,6 +1,6 @@
 # Idea23: How To Dye Sub Your Own Caps at Home
 
-This content & guide is taken from /u/busgamer7394 / Idea23 and can be found [here](https://www.reddit.com/r/MechanicalKeyboards/comments/6egoot/idea23_how_to_dye_sub_your_own_caps/).
+This content & guide is taken from [/u/busgamer7394 / Idea23](https://www.reddit.com/user/busgamer7394) and can be found [here](https://www.reddit.com/r/MechanicalKeyboards/comments/6egoot/idea23_how_to_dye_sub_your_own_caps/).
 
 ## Supplies Needed
 
@@ -15,6 +15,8 @@ This content & guide is taken from /u/busgamer7394 / Idea23 and can be found [he
 * Piece of wood
 
 * [JB Weld High Heat](https://www.amazon.com/J-B-Weld-8297-HighHeat-Degree/dp/B007PP26RI/ref=sr_1_1?ie=UTF8&qid=1496252483&sr=8-1&keywords=jb+weld+high+heat) ($8.00)
+
+### Printer Supplies Needed
 
 * [Dye Sub Printer](http://www.ebay.com/itm/Sublimation-Printer-Epson-WF-2630-Built-on-CISS-400ml-Sublimation-Ink-10-Paper-/201586241187?hash=item2eef79eea3:g:6FYAAOSwhQhYyaBs) (~$200)
 
