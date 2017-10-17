@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Mechanical Keyboards", 
+            "text": "Mechanical Keyboards\n\n\nPlease browse the site using the menu to the left. If you'd like to contribute content, please check the \ncontributing guide\n and submit a pull request today.\n\n\nOther Great Mechanical Keyboard Resources\n\n\n\n\n/r/mechanicalkeyboards\n\n\nGeekhack Forums\n\n\nDeskthority Forums\n\n\nDeskthority Wiki\n\n\nKeychatter\n\n\n/r/mechmarket\n\n\nArtisan Archive\n\n\nkbdlounge.com", 
             "title": "Home"
         }, 
         {
             "location": "/#mechanical-keyboards", 
-            "text": "", 
+            "text": "Please browse the site using the menu to the left. If you'd like to contribute content, please check the  contributing guide  and submit a pull request today.", 
             "title": "Mechanical Keyboards"
+        }, 
+        {
+            "location": "/#other-great-mechanical-keyboard-resources", 
+            "text": "/r/mechanicalkeyboards  Geekhack Forums  Deskthority Forums  Deskthority Wiki  Keychatter  /r/mechmarket  Artisan Archive  kbdlounge.com", 
+            "title": "Other Great Mechanical Keyboard Resources"
         }, 
         {
             "location": "/buying/hhkb-amazon-japan/", 
