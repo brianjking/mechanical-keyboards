@@ -1,6 +1,6 @@
 # Buying HHKB Professional 2 via Amazon Japan 
 
-[HHKB Professional BT](https://i.imgur.com/jcYKRWU.jpg)
+![HHKB BT](../images/hhkb-bt.jpg "HHKB BT")
 
 Caught the Topre bug? Looking to purchase a HHKB Professional 2 but don't want to pay the often times outrageous prices on eBay, Amazon.com, or most other retailers? Don't worry, this guide is here to help! 
 
