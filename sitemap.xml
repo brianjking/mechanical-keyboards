@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <lastmod>2017-10-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,8 +12,18 @@
     
         
     <url>
+     <loc>/buying/hhkb-amazon-japan/</loc>
+     <lastmod>2017-10-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
      <loc>/customization/idea23-dyesub/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <lastmod>2017-10-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -22,7 +32,7 @@
     
     <url>
      <loc>/contributing/contribution/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <lastmod>2017-10-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
