@@ -55,6 +55,7 @@ pages:
   - Home: index.md
   - Purchasing:
     - HHKB via Amazon Japan: buying/hhkb-amazon-japan.md
+    - HHKB Type-S, BT, & JP via Buyee Proxy: buying/hhkb-buyee-proxy.md
   - Customization:
     - Idea23 Dye Sub Cap Printing DIY: customization/idea23-dyesub.md
   - Contribution: contributing/contribution.md
