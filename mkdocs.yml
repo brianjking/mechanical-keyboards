@@ -1,32 +1,45 @@
 site_name: Mechanical Keyboards Docs & Resources
-theme: 'material'
 site_author: Brian King
-
-# Repository
 repo_name: brianjking/mechanical-keyboards
 repo_url: https://github.com/brianjking/mechanical-keyboards
+
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'blue-grey'
+    accent: 'light-blue'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+
+# Repository
+
 
 # Copyright
 #copyright: 'Copyright &copy; 2017 '
 
-# Options
 extra:
   feature:
     tabs: false
-  palette:
-    primary: light blue
-    accent: pink
   social:
     - type: globe
       link: https://brianjking.io
-    - type: reddit
-      link: https://reddit.com/r/mechanicalkeyboards
     - type: github-alt
       link: https://github.com/brianjking
     - type: twitter
       link: https://twitter.com/brianjking
     - type: linkedin
       link: https://www.linkedin.com/in/brianjking
+    - type: globe
+      link: https://brianjking.io
+    - type: reddit
+      link: https://reddit.com/r/mechanicalkeyboards
+
+
+
 
 # Extensions
 markdown_extensions:
@@ -49,6 +62,10 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist(custom_checkbox=true)
   - pymdownx.tilde
+  - fontawesome_markdown
+
+
+
 
 # Page tree
 pages:
@@ -56,6 +73,7 @@ pages:
   - Purchasing:
     - HHKB via Amazon Japan: buying/hhkb-amazon-japan.md
     - HHKB Type-S, BT, & JP via Buyee Proxy: buying/hhkb-buyee-proxy.md
+  - Artisans: artisans/artisans.md
   - Customization:
     - Idea23 Dye Sub Cap Printing DIY: customization/idea23-dyesub.md
   - Contribution: contributing/contribution.md

@@ -1,0 +1,18 @@
+language: python
+python:
+- '2.7'
+install:
+  - pip install -q -r requirements.txt
+script:
+  - mkdocs build
+
+
+# Deploy artifacts (MkDocs HTML to GitHub Pages)
+after_success:
+- git config user.name "{GH_USER}"
+- git config user.email "{GH_EMAIL}"
+- git remote add gh-token "https://${GH_TOKEN}@github.com/brianjking/mechanical-keyboards.git";
+- git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
+- pip install mkdocs -U;
+- mkdocs gh-deploy -v --remote-name gh-token;
+
