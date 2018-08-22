@@ -1,46 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
-     <loc>/</loc>
-     <lastmod>2017-11-15</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-08-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
-     <loc>/buying/hhkb-amazon-japan/</loc>
-     <lastmod>2017-11-15</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-08-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/buying/hhkb-buyee-proxy/</loc>
-     <lastmod>2017-11-15</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-08-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>/customization/idea23-dyesub/</loc>
-     <lastmod>2017-11-15</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-08-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
     <url>
-     <loc>/contributing/contribution/</loc>
-     <lastmod>2017-11-15</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-08-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
+    <url>
+     <loc>None</loc>
+     <lastmod>2018-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
 </urlset>
