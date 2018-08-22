@@ -1,5 +1,7 @@
 # Mechanical Keyboards
 
+[![Build Status](https://travis-ci.org/brianjking/mechanical-keyboards.svg?branch=master)](https://travis-ci.org/brianjking/mechanical-keyboards)
+
 * [Visit the MkDocs Site](https://brianjking.github.io/mechanical-keyboards/).
 
 If you'd like to contribute content, please check the [contributing guide](https://brianjking.github.io/mechanical-keyboards/contributing/contribution/) and submit a pull request today.
