@@ -73,8 +73,9 @@ pages:
   - Purchasing:
     - HHKB via Amazon Japan: buying/hhkb-amazon-japan.md
     - HHKB Type-S, BT, & JP via Buyee Proxy: buying/hhkb-buyee-proxy.md
-  - Artisans: 
+  - Artisans:
     - Artisan Keycaps: artisans/artisans.md
+    - Keycap.info Mirror: artisans/keycap-info-mirror.md
     - Counterfeit Watch: artisans/counterfeit-warning.md
   - Customization:
     - Idea23 Dye Sub Cap Printing DIY: customization/idea23-dyesub.md
