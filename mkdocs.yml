@@ -72,7 +72,7 @@ markdown_extensions:
 
 
 # Page tree
-pages:
+nav:
   - Home: index.md
   - Purchasing:
     - HHKB via Amazon Japan: buying/hhkb-amazon-japan.md
