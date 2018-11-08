@@ -12,3 +12,4 @@ https://deskthority.net/wiki/Topre_Realforce
 https://hhkeyboard.us/realforce/
 
 
+https://hhkeyboard.us/wp-content/uploads/2018/11/RF_Tech_Specs-1.pdf
