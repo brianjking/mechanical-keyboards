@@ -14,4 +14,4 @@ https://hhkeyboard.us/realforce/
 
 https://hhkeyboard.us/wp-content/uploads/2018/11/RF_Tech_Specs-1.pdf
 
-:fa-file-pdf: [Realforce R2 Technical Specs](../files/realforce-r2-technical-specs.pdf)
+[Realforce R2 Technical Specs](../files/realforce-r2-technical-specs.pdf)
