@@ -12,10 +12,24 @@ https://deskthority.net/wiki/Topre_Realforce
 https://hhkeyboard.us/realforce/
 
 
+### Realforce R2 Downloads
 
 :fa-download: [Realforce R2 Technical Specs](../files/realforce-r2-technical-specs.pdf) source [^1]
 
 
+## HHKB 
+
+https://hhkeyboard.us/happyhacking/
+
+
+### HHKB Downloads
+
+:fa-download: [HHKB Technical Specs](../files/hhkb-technical-specs.pdf) source [^2]
+:fa-download: [HHKB FAQs from Fujitsu](../files/hhkb-faqs.pdf) source [^3]
+:fa-download: [HHKB Settings & Layout Docs from Fujitsu](../files/hhkb-settings-layout.pdf) source [^4]
 
 
 [^1]: Technical specs were downloaded from Fujitsu's website [here](https://hhkeyboard.us/wp-content/uploads/2018/11/RF_Tech_Specs-1.pdf).
+[^2]: Technical specs were downloaded from Fujitsu's HHKB Website [here](https://hhkeyboard.us/happyhacking/).
+[^3]: FAQs were downloaded from Fujitsu's HHKB Website [here](https://hhkeyboard.us/happyhacking/).
+[^4]: Settings & layout documents were downloaded from Fujitsu's HHKB Website [here](https://hhkeyboard.us/happyhacking/).
