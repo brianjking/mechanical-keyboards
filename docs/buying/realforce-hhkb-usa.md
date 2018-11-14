@@ -24,10 +24,11 @@
 |         CG01000        |     291101     |      USB      |         87         |    ANSI    |        Yes       |   Variable (Silenced)  |    Sublimation    |                |        Ivory        |                |                  |       2018       |     Available    |
 |         CG01000        |     291201     |      USB      |         87         |    ANSI    |        Yes       | Uniform 55g (Silenced) |    Sublimation    |                |        Black        |                |                  |       2018       |     Available    |
 
-https://deskthority.net/wiki/Topre_Realforce
+* [Purchase Realforce R2 ANSI Keyboards directly in the USA](https://hhkeyboard.us/realforce/)
+
+* [Deskthority Wiki on Topre Realforce Keyboards](https://deskthority.net/wiki/Topre_Realforce)
 
 
-https://hhkeyboard.us/realforce/
 
 
 ### Realforce R2 Downloads
@@ -37,7 +38,21 @@ https://hhkeyboard.us/realforce/
 
 ## HHKB 
 
-https://hhkeyboard.us/happyhacking/
+!!! note "Table with models coming soon"
+
+    Table will be coming soon.
+
+
+
+* [Purchase HHKB's in the USA Directly](https://hhkeyboard.us/happyhacking/)
+
+* [Keychatter Rumors of Fall 2019 HHKB Refresh](https://www.keychatter.com/2018/11/13/hhkb-professional-refresh-coming-fall-2019/)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/93tcwesW7NE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[^5] Video from [Tinyteee](https://www.twitch.tv/tinyteee) at the NorCal 2018 Mechanical Keyboards Meetup
+
+* [Deskthority Wiki on Happy Hacking Keyboard](https://deskthority.net/wiki/Happy_Hacking_Keyboard)
 
 
 ### HHKB Downloads
@@ -51,3 +66,4 @@ https://hhkeyboard.us/happyhacking/
 [^2]: Technical specs were downloaded from Fujitsu's HHKB Website [here](https://hhkeyboard.us/happyhacking/).
 [^3]: FAQs were downloaded from Fujitsu's HHKB Website [here](https://hhkeyboard.us/happyhacking/).
 [^4]: Settings & layout documents were downloaded from Fujitsu's HHKB Website [here](https://hhkeyboard.us/happyhacking/).
+[^5] Video from [Tinyteee](https://www.twitch.tv/tinyteee) at the NorCal 2018 Mechanical Keybaords Meetup. Original Twitch clip can be found [here](https://clips.twitch.tv/GrossImportantYogurtPupper).
