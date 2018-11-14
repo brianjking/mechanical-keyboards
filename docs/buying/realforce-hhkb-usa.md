@@ -50,7 +50,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/93tcwesW7NE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Video from [Tinyteee](https://www.twitch.tv/tinyteee) at the NorCal 2018 Mechanical Keyboards Meetup [^5]
+* Video from [Tinyteee](https://www.twitch.tv/tinyteee) at the NorCal 2018 Mechanical Keyboards Meetup.
 
 * [Deskthority Wiki on Happy Hacking Keyboard](https://deskthority.net/wiki/Happy_Hacking_Keyboard)
 
