@@ -46,7 +46,7 @@
 
 * [Purchase HHKB's in the USA Directly](https://hhkeyboard.us/happyhacking/)
 
-* [Keychatter Rumors of Fall 2019 HHKB Refresh](https://www.keychatter.com/2018/11/13/hhkb-professional-refresh-coming-fall-2019/)
+* [HHKB Professional Refresh Coming Fall 2019 via Keychatter](https://www.keychatter.com/2018/11/13/hhkb-professional-refresh-coming-fall-2019/)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/93tcwesW7NE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
