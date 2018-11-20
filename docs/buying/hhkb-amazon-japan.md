@@ -29,7 +29,4 @@ Using the guide below you can have a HHKB Professional 2 shipped from Amazon Jap
 
     Be sure to cancel your Amazon Japan Prime Trial before you get charged for it! 
 
-!!! tip "HHKB Metal Stickers"
-
-    If you purchased a HHKB and want to customize it please be sure to **[order HHKB Colored Metal Stickers](https://docs.google.com/forms/d/e/1FAIpQLSeYYpRDXwMaR-0ROVrMtktY3cj4K7uoR_WtOeXSrcMt4V8gcQ/viewform?usp=sf_link)**. Check out some of the options [here](http://imgur.com/a/KfZbY).
 
