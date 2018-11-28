@@ -84,6 +84,8 @@ nav:
     - Artisan Keycaps: artisans/artisans.md
     - Keycap.info Mirror: artisans/keycap-info-mirror.md
     - Counterfeit Watch: artisans/counterfeit-warning.md
+  - Community:
+    - Keyboard Meetups: community/meetups.md
   - Customization:
     - Idea23 Dye Sub Cap Printing DIY: customization/idea23-dyesub.md
   - Contribution: contributing/contribution.md
