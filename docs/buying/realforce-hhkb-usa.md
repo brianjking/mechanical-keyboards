@@ -6,6 +6,12 @@
 
     As of November 2018 the new Topre Realforce R2 keyboards are available for purchase directly in the United States without a proxy shipping service *(such as Buyee.jp)* via Amazon.com or from Fujitsu directly. Additional details in [this press release from Fujitsu](https://www.prnewswire.com/news-releases/premium-keyboards-happy-hacking-keyboard-and-realforce-keyboards-officially-launched-in-the-us-by-fujitsu-computer-products-of-america-300745472.html).
 
+!!! warning "Important Note Regarding Models"
+
+    The table below may have some incorrect info. There is a discrepency between the PDF file and the listings regarding which models of Realforce R2 models are silenced. Once I confirm which information is correct I will update the table. 
+
+    *If you are able to confirm one way or another please feel free to contribute a pull request to update the guide [here](https://brianjking.github.io/mechanical-keyboards/contributing/contribution/).*
+
 
 ### Realforce R2 Models
 
