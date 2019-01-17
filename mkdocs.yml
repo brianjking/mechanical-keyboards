@@ -78,12 +78,15 @@ nav:
     - HHKB via Amazon Japan: buying/hhkb-amazon-japan.md
     - Realforce & HHKB's in the USA: buying/realforce-hhkb-usa.md
     - HHKB Type-S, BT, & JP via Buyee Proxy: buying/hhkb-buyee-proxy.md
+    - Taobao & Superbuy: buying/superbuy-taobao.md
   - Building:
     - Building Services: building/building-services.md
   - Artisans:
     - Artisan Keycaps: artisans/artisans.md
     - Keycap.info Mirror: artisans/keycap-info-mirror.md
     - Counterfeit Watch: artisans/counterfeit-warning.md
+  - Learning:
+    - Mechanical Keyboard Switch Force Curves: learning/force-curves.md
   - Community:
     - Keyboard Meetups: community/meetups.md
   - Customization:
