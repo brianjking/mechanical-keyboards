@@ -22,5 +22,7 @@
 * Nubbinator
 * [Deathcaps](https://death-caps.com/prior-sales)
 * [TinyMakesThings](https://docs.google.com/document/d/17Zb-LmujFdcnOZ2_VFhoPHKP1gZJmzEKJH2fawFeqpk/edit?usp=sharing)
+* [Bludgeoned Kaps Catalog](https://docs.google.com/document/d/1KKMT4uvPquXcrWF1dX3p3R-PJ_0A98oUO2kwkNvLOd8/edit)
+
 
 
