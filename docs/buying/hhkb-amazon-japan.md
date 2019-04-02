@@ -27,6 +27,4 @@ Using the guide below you can have a HHKB Professional 2 shipped from Amazon Jap
 
 !!! tip "Cancel Prime"
 
-    Be sure to cancel your Amazon Japan Prime Trial before you get charged for it! 
-
-
+    Be sure to cancel your Amazon Japan Prime Trial before you get charged for it!
