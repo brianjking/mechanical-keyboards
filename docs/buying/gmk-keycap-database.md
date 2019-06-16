@@ -2,7 +2,7 @@
 
 ## Enjoy Beautiful Keycaps Database
 
-[Enjoy Beautiful Keycaps Database](https://matrixzj.github.io/)
+* [Enjoy Beautiful Keycaps Database](https://matrixzj.github.io/)
 
 
 ## GMK Keycap Database
