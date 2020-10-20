@@ -22,7 +22,7 @@ If you'd like to contribute content, please check the [contributing guide](https
 
 !!! tip "Outdated"
 
-    This site is quite outdated. I suggest using [https://keycap-archivist.com by /u/beehatch](keycap-archivist.com)
+    This site is quite outdated. I suggest using [https://keycap-archivist.com](keycap-archivist.com)
 
 * [Keebtown Podcast](https://www.keebtown.co/)
 * [Keebtalk Forums](https://www.keebtalk.com/)
