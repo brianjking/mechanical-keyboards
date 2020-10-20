@@ -15,12 +15,15 @@ If you'd like to contribute content, please check the [contributing guide](https
 * [Keychatter](https://www.keychatter.com/)
 * [/r/mechmarket](https://reddit.com/r/mechmarket)
 * [Keychatter Wiki](http://www.keychatter.wiki/index.php/Main_Page)
+* [Keycap Archivist](https://keycap-archivist.com)
+* [Keyboard University](https://keyboard.university/)
 * [Artisan Keycap Archive by /u/beehatch](https://keycap.info)
 * [Artisan Archive](https://www.artisanarchive.org/)
 
 !!! tip "Outdated"
 
-    This site is quite outdated. I suggest using [https://keycap.info by /u/beehatch](https://keycap.info)
+    This site is quite outdated. I suggest using [https://keycap-archivist.com by /u/beehatch](keycap-archivist.com)
+
 * [Keebtown Podcast](https://www.keebtown.co/)
 * [Keebtalk Forums](https://www.keebtalk.com/)
 * [Typehype Forums](https://typehype.net/)
